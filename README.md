@@ -8,7 +8,7 @@ The study is deliberately **staged** — small pilot → wider organ set → ful
 whether conclusions drawn from a small pilot survive at adequate sample size. They don't:
 the "best" tool changes as sample size and organ count grow, which is the central finding.
 
-![Ground truth vs. tool predictions on a representative FLARE22 subject](figs/segmentation_comparison.png)
+![Ground truth vs. tool predictions on a representative FLARE22 subject](docs/segmentation_comparison.png)
 
 *Ground-truth vs. predicted segmentation (GT / TotalSegmentator / MOOSE / VoxTell) on a representative subject from the public FLARE22 dataset.*
 
@@ -31,7 +31,7 @@ The ranking reverses as the organ set widens and sample size grows — small pil
 directional, not conclusive. Liver converges to a near three-way tie at N=50. A fuller
 write-up (methodology, per-organ tables, figures, discussion) is in the technical report.
 
-📄 **[Technical report (PDF)](https://drive.google.com/file/d/11GA0wGWsxgoIZGpOn8EC_152Sk4LfFZW/view?usp=sharing)**
+📄 **[Technical report (PDF)](YOUR_DRIVE_LINK)**
 
 ---
 
@@ -122,7 +122,7 @@ Steps 1–4 are independent and can run in parallel. Step 3 needs at least one M
 A detailed report — architecture of each tool, staged methodology, full per-organ tables,
 figures, modality-coverage analysis, and recommendations — is available here:
 
-📄 **[Technical Report (PDF)](https://drive.google.com/file/d/11GA0wGWsxgoIZGpOn8EC_152Sk4LfFZW/view?usp=sharing)**
+📄 **[Technical Report (PDF)](YOUR_DRIVE_LINK)**
 
 ---
 
