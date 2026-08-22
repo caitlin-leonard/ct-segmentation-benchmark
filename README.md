@@ -31,7 +31,7 @@ The ranking reverses as the organ set widens and sample size grows — small pil
 directional, not conclusive. Liver converges to a near three-way tie at N=50. A fuller
 write-up (methodology, per-organ tables, figures, discussion) is in the technical report.
 
-📄 **[Technical report (PDF)](YOUR_DRIVE_LINK)**
+📄 **[Technical report (PDF)](https://drive.google.com/file/d/11GA0wGWsxgoIZGpOn8EC_152Sk4LfFZW/view?usp=drive_link)**
 
 ---
 
@@ -122,7 +122,7 @@ Steps 1–4 are independent and can run in parallel. Step 3 needs at least one M
 A detailed report — architecture of each tool, staged methodology, full per-organ tables,
 figures, modality-coverage analysis, and recommendations — is available here:
 
-📄 **[Technical Report (PDF)](YOUR_DRIVE_LINK)**
+📄 **[Technical Report (PDF)](https://drive.google.com/file/d/11GA0wGWsxgoIZGpOn8EC_152Sk4LfFZW/view?usp=drive_link)**
 
 ---
 
