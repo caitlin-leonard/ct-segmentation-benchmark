@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MedViewer: A Modular, ITK-SNAP-Style Medical Volume Viewer"
+authors:
+  - family-names: "Leonard"
+    given-names: "Caitlin Simona"
+date-released: 2026-07-10
+version: "1.0.0"
+url: "https://github.com/caitlin-leonard/medviewer"
+license: MIT
+keywords:
+  - medical-imaging
+  - medical-image-viewer
+  - vtk
+  - pyqt6
+  - marching-cubes
+  - nifti
