@@ -156,6 +156,6 @@ attribution. See the Citation section above if you use it in research.
 
 ## Acknowledgements
 
-Developed during a research internship at Perfint Healthcare, Chennai. All experiments use the
+All experiments use the
 public FLARE22 and TotalSegmentator datasets; the three evaluated tools (MOOSE, TotalSegmentator,
 VoxTell) are open-source projects by their respective authors.
